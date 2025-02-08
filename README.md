@@ -1,1 +1,1 @@
-# hush
+# hushCommit 1 line
